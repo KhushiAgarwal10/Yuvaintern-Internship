@@ -100,7 +100,6 @@ Dataset Features:
 * Week2_README.md
 * eda_analysis.ipynb
 * cleaned_crop_dataset.csv
-* visualization screenshots
 
 ---
 
@@ -115,11 +114,10 @@ The exploratory data analysis successfully identified trends, relationships, and
 ```bash id="ev5jlwm"
 Week2/
 │
-├── Week2_Report.docx
+├── Week2_README.md
 ├── eda_analysis.ipynb
 ├── cleaned_crop_dataset.csv
-├── visualizations/
-└── README.md
+
 ```
 
 ---
@@ -132,5 +130,5 @@ The EDA process improved understanding of the agribusiness dataset by providing 
 
 # Author
 
-Name: ____________
+Name: Khushi Agarwal
 Internship: Yuva Internship - Machine Learning Data Analyst Internship
