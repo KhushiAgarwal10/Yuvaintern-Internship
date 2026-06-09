@@ -83,7 +83,7 @@ Collect a publicly available agribusiness dataset and preprocess it for machine 
 * requirements.txt
 
 ---
-<!-- 
+
 ## Week 2 - Exploratory Data Analysis (EDA)
 
 ### Objective
@@ -100,13 +100,13 @@ Perform detailed exploratory data analysis on the cleaned dataset.
 
 ### Expected Files
 
-* Week2_Report.docx
+* Week2_README.md.docx
 * eda_analysis.ipynb
-* visualization images
+* cleaned_crop_dataset.csv
 
 ---
 
-## Week 3 - Data Modelling
+<!-- ## Week 3 - Data Modelling
 
 ### Objective
 
