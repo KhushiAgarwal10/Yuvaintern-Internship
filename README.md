@@ -106,7 +106,7 @@ Perform detailed exploratory data analysis on the cleaned dataset.
 
 ---
 
-<!-- ## Week 3 - Data Modelling
+## Week 3 - Data Modelling
 
 ### Objective
 
@@ -122,13 +122,13 @@ Build a machine learning model using the agribusiness dataset.
 
 ### Expected Files
 
-* Week3_Report.docx
-* model_building.ipynb
-* trained_model.pkl
+* Week3_README.md
+* model_training.ipynb
+* cleaned_crop_dataset.csv
 
 ---
 
-## Week 4 - Presentation of Findings and Recommendations
+<!-- ## Week 4 - Presentation of Findings and Recommendations
 
 ### Objective
 
@@ -144,7 +144,7 @@ Interpret findings and provide recommendations for the agribusiness sector.
 ### Expected Files
 
 * Week4_Report.docx
-* Final_Project_Report.docx
+* Final_Project_Report.docx -->
 
 ---
 
@@ -167,11 +167,11 @@ Yuva_Internship/
 ├── Week3/
 │   ├── Week3_README.md
 │   ├── model_building.ipynb
-│   └── trained_model.pkl
+│   └── cleaned_crop_dataset.csv
 │
-├── Week4/
-│   ├── Week4_README.md
-│   └── Final_Project_Report.docx
+# ├── Week4/
+# │   ├── Week4_README.md
+# │   └── Final_Project_Report.docx
 │
 └── README.md
 ```
@@ -193,7 +193,7 @@ Yuva_Internship/
 
 This internship project provides practical experience in the complete machine learning workflow using agribusiness datasets. The project demonstrates skills in data cleaning, exploratory data analysis, predictive modelling, and business-oriented interpretation of results.
 
---- -->
+---
 
 # Author
 
